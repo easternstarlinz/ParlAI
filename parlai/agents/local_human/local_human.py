@@ -59,9 +59,9 @@ class LocalHumanAgent(Agent):
         return self.finished
 
     def observe(self, msg):
-        print(
+        print("中文"+
             display_messages(
-                ["中文"+msg],
+                [msg],
                 add_fields=self.opt.get('display_add_fields', ''),
                 prettify=self.opt.get('display_prettify', False),
                 verbose=self.opt.get('verbose', False),
