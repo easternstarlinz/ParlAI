@@ -68,7 +68,8 @@ class LocalHumanAgent(Agent):
                 verbose=self.opt.get('verbose', False),
             )
         translation =  en_zh(en_msg)
-        print(translation[0]['translation_text'])
+        print(msg)
+        print(en_msg)
 
     def act(self):
         reply = Message()
