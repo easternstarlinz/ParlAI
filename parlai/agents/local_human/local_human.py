@@ -72,7 +72,7 @@ class LocalHumanAgent(Agent):
         reply = Message()
         reply['id'] = self.getID()
         try:
-            reply_text = input(colorize("Enter Your Message:", 'text') + ' ')
+            reply_text = input(colorize("请输入:", 'text') + ' ')
         except EOFError:
             self.finished = True
             return {'episode_done': True}
