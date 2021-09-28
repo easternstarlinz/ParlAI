@@ -106,7 +106,8 @@ class SafeLocalHumanAgent(LocalHumanAgent):
         reply_text = reply_text.replace('\\n', '\n')
         from transformers import pipeline
         en_zh = pipeline("translation", model="Helsinki-NLP/opus-mt-en-zh")
-        translation =  en_zh(reply_text)
+        zh_en = pipeline("translation", model="Helsinki-NLP/opus-mt-zh-en")
+        translation =  zh_en(reply_text)
         return translation[0]['translation_text']
 
     def act(self):
