@@ -64,8 +64,8 @@ class LocalHumanAgent(Agent):
             global en_zh
             en_zh = pipeline("translation", model="Helsinki-NLP/opus-mt-en-zh")
         translation =  en_zh(msg['text'])
-        print(msg)
-        print(translation[0]['translation_text'])
+        #print(msg)
+        print("AI尬聊："+translation[0]['translation_text'])
 
     def act(self):
         reply = Message()
