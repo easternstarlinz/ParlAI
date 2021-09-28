@@ -185,7 +185,7 @@ class Agent(object):
         agent = self.clone()
         agent.observe(observation)
         response = agent.act()
-        return response['text']
+        return "中文"+response['text']
 
     def batch_respond(self, messages: List[Message]) -> List[str]:
         """
