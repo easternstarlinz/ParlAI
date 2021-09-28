@@ -104,8 +104,10 @@ class SafeLocalHumanAgent(LocalHumanAgent):
     def get_reply(self):
         reply_text = input(colorize('请输入:', 'field') + ' ')
         reply_text = reply_text.replace('\\n', '\n')
-
-        return reply_text
+        from transformers import pipeline
+        en_zh = pipeline("translation", model="Helsinki-NLP/opus-mt-en-zh")
+        translation =  en_zh(reply_text)
+        return translation[0]['translation_text']
 
     def act(self):
         # get human reply
