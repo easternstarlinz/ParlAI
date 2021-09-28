@@ -19,9 +19,9 @@ from parlai.agents.local_human.local_human import LocalHumanAgent
 from parlai.utils.safety import OffensiveStringMatcher, OffensiveLanguageClassifier
 
 
-OFFENSIVE_USER_REPLY = '[ Sorry, could not process that message. Please try again. ]'
+OFFENSIVE_USER_REPLY = '[ 这个事儿我不懂，聊点别的吧 ]'
 OFFENSIVE_BOT_REPLY = (
-    '[ Unsafe model reply detected. Clearing agent history. Please try again. ]'
+    '[ 你们人类太那个了，AI甘拜下风 ]'
 )
 
 
