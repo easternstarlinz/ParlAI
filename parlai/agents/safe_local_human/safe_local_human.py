@@ -102,7 +102,7 @@ class SafeLocalHumanAgent(LocalHumanAgent):
             print(OFFENSIVE_BOT_REPLY)
 
     def get_reply(self):
-        reply_text = input(colorize('Enter Your Message:', 'field') + ' ')
+        reply_text = input(colorize('请输入:', 'field') + ' ')
         reply_text = reply_text.replace('\\n', '\n')
 
         return reply_text
