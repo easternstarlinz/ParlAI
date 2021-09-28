@@ -60,7 +60,9 @@ class LocalHumanAgent(Agent):
 
     def observe(self, msg):
         from transformers import pipeline
-        en_zh = pipeline("translation", model="Helsinki-NLP/opus-mt-en-zh")
+        if not 'en_zh' in globals():
+            global en_zh
+            en_zh = pipeline("translation", model="Helsinki-NLP/opus-mt-en-zh")
         translation =  en_zh(msg['text'])
         print(msg)
         print(translation[0]['translation_text'])
@@ -76,8 +78,9 @@ class LocalHumanAgent(Agent):
 
         reply_text = reply_text.replace('\\n', '\n')
         from transformers import pipeline
-        #en_zh = pipeline("translation", model="Helsinki-NLP/opus-mt-en-zh")
-        zh_en = pipeline("translation", model="Helsinki-NLP/opus-mt-zh-en")
+        if not 'zh_en' in globals():
+            global zh_en
+            zh_en = pipeline("translation", model="Helsinki-NLP/opus-mt-zh-en")
         translation =  zh_en(reply_text)
         reply_text =  translation[0]['translation_text']
         reply['episode_done'] = False
