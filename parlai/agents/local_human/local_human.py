@@ -8,7 +8,7 @@ Agent does gets the local keyboard input in the act() function.
 
 Example: parlai eval_model -m local_human -t babi:Task1k:1 -dt valid
 """
-
+from typing import List, Union
 from typing import Optional
 from parlai.core.params import ParlaiParser
 from parlai.core.opt import Opt
