@@ -78,6 +78,11 @@ class LocalHumanAgent(Agent):
             return {'episode_done': True}
 
         reply_text = reply_text.replace('\\n', '\n')
+        from transformers import pipeline
+        #en_zh = pipeline("translation", model="Helsinki-NLP/opus-mt-en-zh")
+        zh_en = pipeline("translation", model="Helsinki-NLP/opus-mt-zh-en")
+        translation =  zh_en(reply_text)
+        reply_text =  translation[0]['translation_text']
         reply['episode_done'] = False
         if self.opt.get('single_turn', False):
             reply.force_set('episode_done', True)
