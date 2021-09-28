@@ -95,6 +95,35 @@ class LocalHumanAgent(Agent):
             self.finished = True
             raise StopIteration
         return reply
+    def respond(
+        self, text_or_message: Union[str, Message], **other_message_fields
+    ) -> str:
+        """
+        An agent convenience function which calls the act() and provides a string
+        response to a text or message field.
+        :param Union[str, Message] text_or_message:
+            A string for the 'text' field or a message which MUST
+            comprise of the 'text' field apart from other fields.
+        :param kwargs other_message_fields:
+            Provide fields for the message in the form of keyword arguments.
+        :return:
+            Agent's response to the message.
+        :rtype:
+            str
+        """
+        if isinstance(text_or_message, str):
+            observation = Message(text=text_or_message, **other_message_fields)
+        else:
+            observation = Message(**text_or_message, **other_message_fields)
+            if 'text' not in observation:
+                raise RuntimeError('The agent needs a \'text\' field in the message.')
 
+        if 'episode_done' not in observation:
+            observation['episode_done'] = True
+        agent = self.clone()
+        agent.observe(observation)
+        response = agent.act()
+        return response['text']+"123"
+    
     def episode_done(self):
         return self.episodeDone
