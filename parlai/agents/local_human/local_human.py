@@ -61,15 +61,9 @@ class LocalHumanAgent(Agent):
     def observe(self, msg):
         from transformers import pipeline
         en_zh = pipeline("translation", model="Helsinki-NLP/opus-mt-en-zh")
-        en_msg = display_messages(
-                [msg],
-                add_fields=self.opt.get('display_add_fields', ''),
-                prettify=self.opt.get('display_prettify', False),
-                verbose=self.opt.get('verbose', False),
-            )
-        translation =  en_zh(en_msg)
+        translation =  en_zh(msg['text'])
         print(msg)
-        print(en_msg)
+        print(translation[0]['translation_text'])
 
     def act(self):
         reply = Message()
