@@ -89,7 +89,7 @@ class SearchEngineRetriever(RetrieverAPI):
         server_response = requests.post(server, data=req)
         resp_status = server_response.status_code
         if resp_status == 200:
-            return server_response.json().get('webPages', None).get('value', None)
+            return server_response.json().get('webPages', None)
         logging.error(
             f'Failed to retrieve data from server! Search server returned status {resp_status}'
         )
@@ -116,7 +116,7 @@ class SearchEngineRetriever(RetrieverAPI):
             )
             return retrieved_docs
 
-        for rd in search_server_resp:
+        for rd in search_server_resp.get('value', None):
             url = rd.get('url', '')
             title = rd.get('name', '')
             sentences = [s.strip() for s in rd['snippet'].split('\n') if s and s.strip()]
