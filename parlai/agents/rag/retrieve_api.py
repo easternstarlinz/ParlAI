@@ -84,12 +84,12 @@ class SearchEngineRetriever(RetrieverAPI):
 
     def _query_search_server(self, query_term, n):
         server = self.server_address
-        req = {'q': query_term, 'n': n}
+        req = {'q': 'site:https://www.novonordisk.com '+query_term, 'n': n}
         logging.debug(f'sending search request to {server}')
         server_response = requests.post(server, data=req)
         resp_status = server_response.status_code
         if resp_status == 200:
-            return server_response.json().get('response', None)
+            return server_response.json().get('webPages', None).get('value', None)
         logging.error(
             f'Failed to retrieve data from server! Search server returned status {resp_status}'
         )
@@ -118,8 +118,8 @@ class SearchEngineRetriever(RetrieverAPI):
 
         for rd in search_server_resp:
             url = rd.get('url', '')
-            title = rd.get('title', '')
-            sentences = [s.strip() for s in rd[CONTENT].split('\n') if s and s.strip()]
+            title = rd.get('name', '')
+            sentences = [s.strip() for s in rd['snippet'].split('\n') if s and s.strip()]
             retrieved_docs.append(
                 self.create_content_dict(url=url, title=title, content=sentences)
             )
