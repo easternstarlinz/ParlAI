@@ -125,6 +125,12 @@ class RagAgent(TransformerGeneratorRagAgent, BartRagAgent, T5RagAgent):
         PolyencoderAgent.add_cmdline_args(parser, partial_opt=None)
         TransformerGeneratorRagAgent.add_cmdline_args(parser, partial_opt)
         parser = setup_rag_args(parser)
+        parser.add_argument(
+            '--query-site',
+            type=str,
+            default="",
+            help='restrict website',
+        )
         RagTurn.add_cmdline_args(parser, partial_opt)
         if partial_opt and partial_opt.get('generation_model') == 'bart':
             BartRagAgent.add_cmdline_args(parser, partial_opt=partial_opt)
