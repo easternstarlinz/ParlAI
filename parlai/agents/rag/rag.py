@@ -125,6 +125,7 @@ class RagAgent(TransformerGeneratorRagAgent, BartRagAgent, T5RagAgent):
         PolyencoderAgent.add_cmdline_args(parser, partial_opt=None)
         TransformerGeneratorRagAgent.add_cmdline_args(parser, partial_opt)
         parser = setup_rag_args(parser)
+        parser = parser.add_argument_group('RAG Arguments')
         parser.add_argument(
             '--query-site',
             type=str,
