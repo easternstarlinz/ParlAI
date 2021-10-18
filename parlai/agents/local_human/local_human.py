@@ -40,6 +40,18 @@ class LocalHumanAgent(Agent):
             default=False,
             help='If on, assumes single turn episodes.',
         )
+        agent.add_argument(
+            '--foreign_en',
+            type=str,
+            default="Helsinki-NLP/opus-mt-zh-en",
+            help='translate foreign language into English',
+        )
+        agent.add_argument(
+            '--en_foreign',
+            type=str,
+            default="Helsinki-NLP/opus-mt-en-zh",
+            help='translate English into foreign language',
+        )
         return parser
 
     def __init__(self, opt, shared=None):
