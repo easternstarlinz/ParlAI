@@ -84,7 +84,8 @@ class SearchEngineRetriever(RetrieverAPI):
 
     def _query_search_server(self, query_term, n):
         server = self.server_address
-        req = {'q': 'site:https://www.novonordisk.com '+query_term, 'n': n}
+        req = {'q': 'site:%s %s'%(opt['query-site'],query_term), 'n': n}
+        #req = {'q': 'site:https://www.novonordisk.com '+query_term, 'n': n}
         logging.debug(f'sending search request to {server}')
         server_response = requests.post(server, data=req)
         resp_status = server_response.status_code
