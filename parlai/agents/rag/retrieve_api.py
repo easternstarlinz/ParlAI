@@ -81,7 +81,7 @@ class SearchEngineRetriever(RetrieverAPI):
     def __init__(self, opt: Opt):
         super().__init__(opt=opt)
         self.server_address = self._validate_server(opt.get('search_server'))
-        self.site = opt['query-site']
+        self.site = opt['query_site']
     def _query_search_server(self, query_term, n):
         server = self.server_address
         req = {'q': 'site:%s %s'%(self.site,query_term), 'n': n}
