@@ -60,10 +60,10 @@ class LocalHumanAgent(Agent):
 
     def observe(self, msg):
         from transformers import pipeline
-        if not 'en_zh' in globals():
-            global en_zh
-            en_zh = pipeline("translation", model="Helsinki-NLP/opus-mt-en-zh")
-        translation =  en_zh(msg['text'])
+        if not 'en_foreign' in globals():
+            global en_foreign
+            en_foreign = pipeline("translation", model="en_foreign")
+        translation =  en_foreign(msg['text'])
         #print(msg)
         print("AI尬聊："+translation[0]['translation_text'].replace("你的人:","你的人设:"))
 
@@ -78,10 +78,10 @@ class LocalHumanAgent(Agent):
 
         reply_text = reply_text.replace('\\n', '\n')
         from transformers import pipeline
-        if not 'zh_en' in globals():
-            global zh_en
-            zh_en = pipeline("translation", model="Helsinki-NLP/opus-mt-zh-en")
-        translation =  zh_en(reply_text)
+        if not 'foreign_en' in globals():
+            global foreign_en
+            foreign_en = pipeline("translation", model=opt["foreign_en"])
+        translation =  foreign_en(reply_text)
         reply_text =  translation[0]['translation_text']
         reply['episode_done'] = False
         if self.opt.get('single_turn', False):
