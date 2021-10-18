@@ -74,7 +74,7 @@ class LocalHumanAgent(Agent):
         from transformers import pipeline
         if not 'en_foreign' in globals():
             global en_foreign
-            en_foreign = pipeline("translation", model="en_foreign")
+            en_foreign = pipeline("translation", model=self.opt["en_foreign"])
         translation =  en_foreign(msg['text'])
         #print(msg)
         print("AI尬聊："+translation[0]['translation_text'].replace("你的人:","你的人设:"))
@@ -92,7 +92,7 @@ class LocalHumanAgent(Agent):
         from transformers import pipeline
         if not 'foreign_en' in globals():
             global foreign_en
-            foreign_en = pipeline("translation", model=opt["foreign_en"])
+            foreign_en = pipeline("translation", model=self.opt["foreign_en"])
         translation =  foreign_en(reply_text)
         reply_text =  translation[0]['translation_text']
         reply['episode_done'] = False
