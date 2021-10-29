@@ -1,4 +1,4 @@
-Mr. Text: Mr. Ma, the last time Don visited you, he mentioned some of Germany ' s safety treatments. The incidence of sports halls is very, very low compared to the previous week ' s insulin enzyme in Germany.
+Text: Mr. Ma, the last time Don visited you, he mentioned some of Germany ' s safety treatments. The incidence of sports halls is very, very low compared to the previous week ' s insulin enzyme in Germany.
 Label: I've tried one or two cases before, but I think it has a very low incidence of low blood sugar.
 Text: Mr. Ma, are you saying that the incidence of low insulin sugar is really low?
 Label: Yes, because clinically, we rarely see low blood sugar occurring from glycerin, and in outpatient wards very rarely from low blood sugar.
