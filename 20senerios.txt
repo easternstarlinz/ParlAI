@@ -1,27 +1,27 @@
-Text: Mr. Ma, the last time Don visited you, he mentioned some of Germany ' s safety treatments. The incidence of sports halls is very, very low compared to the previous week ' s insulin enzyme in Germany.
-Label: I've tried one or two cases before, but I think it has a very low incidence of low blood sugar.
-Text: Mr. Ma, are you saying that the incidence of low insulin sugar is really low?
-Label: Yes, because clinically, we rarely see low blood sugar occurring from glycerin, and in outpatient wards very rarely from low blood sugar.
-Text: Yes, it is true that glycerine is also a good base insulin, but the current situation with regard to the use of basic insulin in China is a deficiency in per capita doses, resulting in low compliance rates and insufficient dose adjustment, mainly because of concerns about the incidence of low blood sugar.
+text: Mr. Ma, the last time Don visited you, he mentioned some of Germany ' s safety treatments. The incidence of sports halls is very, very low compared to the previous week ' s insulin enzyme in Germany.
+label: I've tried one or two cases before, but I think it has a very low incidence of low blood sugar.
+text: Mr. Ma, are you saying that the incidence of low insulin sugar is really low?
+label: Yes, because clinically, we rarely see low blood sugar occurring from glycerin, and in outpatient wards very rarely from low blood sugar.
+text: Yes, it is true that glycerine is also a good base insulin, but the current situation with regard to the use of basic insulin in China is a deficiency in per capita doses, resulting in low compliance rates and insufficient dose adjustment, mainly because of concerns about the incidence of low blood sugar.
 I don't think so.
 Although the incidence of low blood sugar is very low, as you said earlier, serious low blood sugar is irreversible for patients, as is the case with flying. Although mechanical accidents on aircraft are very low, we do not want to encounter them, as is the case with severe low blood sugar, which in one case is fatal to the patient, and there is time to show that there is a serious low blood sugar patient and that there is a risk of cardiovascular death, which is 3.8 times higher than the normal absence of low blood sugar risk, while the occurrence of low blood sugar at night increases the patient ' s fear of low blood sugar and, in serious cases, causes the patient to lose or even die at once.
 I don't think so.
 Another study, devote, mentioned to you last time by Don, we can reduce the risk of serious metro soup by 40 per cent compared to glycerine, and the risk of severe low blood sugar at night by 53 per cent.
-Label: Your study of demo, its severe low blood sugar compared to glycerin, and its liquids, its severe low blood sugar incidence at night, have declined significantly, because this data is actually quite interesting to us.
+label: Your study of demo, its severe low blood sugar compared to glycerin, and its liquids, its severe low blood sugar incidence at night, have declined significantly, because this data is actually quite interesting to us.
 I don't think so.
 And then I look at it in clinical terms, because it's clinically accurate, and we see that it has a very low incidence of low blood sugar, because it has a similar incidence of basic insulin, and it has a very low incidence of low blood sugar as a whole. And as you told me today, I'm trying to feel it a few more times.
-Text: Thank you, Mr. Wang, that unit will be able to lend you today to resolve your doubts. As we said earlier, the plane is safe as a plane, and the glycerin is safe as a glycemic, but we in Germany can raise the level of safety to a higher level, we can provide our low blood sugar, we have a safe health escort for diabetic patients, and they ask you to try one or two cases at tomorrow's clinic.
-Label: Okay, okay, I'll be at the clinic tomorrow if I have the right one, and I can look at it two times.
-Text: OK, I'll see you tomorrow. Thank you, Miss Wang.
+text: Thank you, Mr. Wang, that unit will be able to lend you today to resolve your doubts. As we said earlier, the plane is safe as a plane, and the glycerin is safe as a glycemic, but we in Germany can raise the level of safety to a higher level, we can provide our low blood sugar, we have a safe health escort for diabetic patients, and they ask you to try one or two cases at tomorrow's clinic.
+label: Okay, okay, I'll be at the clinic tomorrow if I have the right one, and I can look at it two times.
+text: OK, I'll see you tomorrow. Thank you, Miss Wang.
 I don't think so.
 Episode_done: True
-Text: Director, teacher, come to visit you today. The last time you visited you, you raised the question of accumulation in Degulin, right?
-Label: Because I told you about your product or about the product of Notre Dame the last time you told me about it, I think the product is good, because I'm kind of sweet about some new products, but I've got one for you once a day, and he's not 42 hours a day, he's not going to believe it. I still have a problem with that, and see if you can give me some more details.
-Text: All right, Director, you think that the half-life of insulin in Insulin in Insulin may be 24 hours, and you think that there may be low blood sugar in clinical use?
+text: Director, teacher, come to visit you today. The last time you visited you, you raised the question of accumulation in Degulin, right?
+label: Because I told you about your product or about the product of Notre Dame the last time you told me about it, I think the product is good, because I'm kind of sweet about some new products, but I've got one for you once a day, and he's not 42 hours a day, he's not going to believe it. I still have a problem with that, and see if you can give me some more details.
+text: All right, Director, you think that the half-life of insulin in Insulin in Insulin may be 24 hours, and you think that there may be low blood sugar in clinical use?
 I don't think so.
 Can you do that? Yeah. Yeah.
-Label: You said that.
-Text: Well, here's the thing, actually, we have two aspects of the drug's metabolic absorption in the body, one of its absorbors and the other of its clean-up.
+label: You said that.
+text: Well, here's the thing, actually, we have two aspects of the drug's metabolic absorption in the body, one of its absorbors and the other of its clean-up.
 I don't think so.
 Insulin is especially injected under the skin, and the weekend period is mainly reflected in the process of drug absorption and not in the process of internal elimination.
 I don't think so.
@@ -32,27 +32,27 @@ I don't think so.
 In fact, from the clinical point of view, first of all, the negative effects of his renewal, which you have just mentioned is a low blood sugar, and in many experiments it can be confirmed, whether it's good for rct or for the real world, that the risk of his low blood sugar occurring is obvious, that there is no difference between the treatment and recovery of low blood sugar below glycerin and glycerin, so that the time it takes to recover is similar, so that although we have a half-life of 20 to 25 hours, we have a similar risk that it will not accumulate in the body after injection.
 I don't think so.
 Chief, I don't know if I can explain this.
-Label: I think I get it, which means that your insulin is a horizontal elimination rate that is in your body and is sought for first-level motor elimination, right? Then you explain this to me, which is how you open up and have some advantages over gluten, right? How much do you borrow for your health insurance now?
-Text: The director says that your problem is very good. In fact, the price is really related to the financial nature of our patients' use. Tegiya Insulin has been insured. After the implementation of the new health insurance policy in January 2020, there is Tegiya Insulin, which is 190, uh, 191.
-Label: Right.
-Text: He is already insured, and there is no difference in use to other insulin, and the glycerin, including Dieter, is, after all, also admitted to the health insurance as a new possibility, suggesting that his recognition is still high at all levels.
-Label: Do you have any data on clinical use, some evidence or something, or do you have anything on your side? Or do you have any samples or something on your side, and can I try it first, and I want to see what the clinical effect is?
-Text: Yes, you mentioned the samples, and I'd like to see two samples of his insulin here, and I'll bring them to you next time, especially if the glycerin has been fully adjusted, so that we can fully experience the advantages of the gluten and, on the one hand, the information you have, so that next time you can read some of his clinical ST studies, including those of the real world, together.
+label: I think I get it, which means that your insulin is a horizontal elimination rate that is in your body and is sought for first-level motor elimination, right? Then you explain this to me, which is how you open up and have some advantages over gluten, right? How much do you borrow for your health insurance now?
+text: The director says that your problem is very good. In fact, the price is really related to the financial nature of our patients' use. Tegiya Insulin has been insured. After the implementation of the new health insurance policy in January 2020, there is Tegiya Insulin, which is 190, uh, 191.
+label: Right.
+text: He is already insured, and there is no difference in use to other insulin, and the glycerin, including Dieter, is, after all, also admitted to the health insurance as a new possibility, suggesting that his recognition is still high at all levels.
+label: Do you have any data on clinical use, some evidence or something, or do you have anything on your side? Or do you have any samples or something on your side, and can I try it first, and I want to see what the clinical effect is?
+text: Yes, you mentioned the samples, and I'd like to see two samples of his insulin here, and I'll bring them to you next time, especially if the glycerin has been fully adjusted, so that we can fully experience the advantages of the gluten and, on the one hand, the information you have, so that next time you can read some of his clinical ST studies, including those of the real world, together.
 I don't think so.
 Is that all right with you, chief?
-Label: Yes, I can. Then when you get it, I'll give some patients a trial, and I want to see what's going on.
-Text: All right, this is how you treat patients who have not met the criteria for blood sugar for more than six months, especially glycerin, so we can try it and experience it.
+label: Yes, I can. Then when you get it, I'll give some patients a trial, and I want to see what's going on.
+text: All right, this is how you treat patients who have not met the criteria for blood sugar for more than six months, especially glycerin, so we can try it and experience it.
 I don't think so.
 All right, thank you, Director. I'll be back next Monday.
-Label: Well, bring it to me when you're ready. I'll try it on then, okay?
-Text: Good Director.
-LABEL: Goodbye, Director Jang. Goodbye.
+label: Well, bring it to me when you're ready. I'll try it on then, okay?
+text: Good Director.
+label: Goodbye, Director Jang. Goodbye.
 I don't think so.
 Episode_done: True
-Text: I haven't used the sample I took the other day. I was wondering if you German you've been telling me for 42 hours, and if you've been fighting once a day, will it produce savings?
-Label: Thank you very much for your attention to our Germany and for your support, and I'm trying to understand the question you just said. Are you worried that we'll be working for 42 hours, uh, once a day, and then lead to a low blood sugar reaction?
-Text: Yes, if you want to accumulate, you're particularly vulnerable to low blood sugar.
-Label: Yes, sir, in response to your question, I would like to communicate with you in a number of ways, and I would also like to be able to dispel your doubts.
+text: I haven't used the sample I took the other day. I was wondering if you German you've been telling me for 42 hours, and if you've been fighting once a day, will it produce savings?
+label: Thank you very much for your attention to our Germany and for your support, and I'm trying to understand the question you just said. Are you worried that we'll be working for 42 hours, uh, once a day, and then lead to a low blood sugar reaction?
+text: Yes, if you want to accumulate, you're particularly vulnerable to low blood sugar.
+label: Yes, sir, in response to your question, I would like to communicate with you in a number of ways, and I would also like to be able to dispel your doubts.
 I don't think so.
 First of all, you fear that accumulation is actually a reaction of low blood sugar to the drug, which, according to research from both the rct and the real world, is significantly lower than glycerine, whether it is severe low blood sugar or severe low blood sugar at night. So you don't have to worry about his low blood sugar reaction, and there will be no accumulation in the valley anyway.
 I don't think so.
@@ -63,60 +63,60 @@ I don't think so.
 Insulin is followed by the first degree of kinetic elimination, i.e. horizontal elimination, which can be completely metabolized after a single injection of three to five half-lives. And repeated injections of insulin are still in effect, and the amount of insulin in subcutaneous reservoirs and the amount of our inhaled blood is constant or non-accumulative. You can be assured of its use.
 I don't think so.
 Episode_done: True
-Text: The director is busy. You have a lot of patients today. I'll get you a glass of hot water.
-Label: Thank you, Choi.
-Text: I see that we've been using a lot of glycerine recently. Our company has not produced a new glycerine, which is also a long-lived base insulin. Now that I have brought you a few samples, it has entered the National Health Insurance, which is similar to the price of a reimbursement policy for glycerin, and if a patient who needs the initial base insulin can try it, his emptied blood sugar control will be much better than glycerin insulin.
-LABEL: I've heard about it in Germany, like it has a lower risk of low blood sugar, right?
-Text: The Director is right. Thank you for your attention to our new drug. All the lct experiments and real world studies on the insulin skin of Devereaux have found that the risk of low blood sugar is significantly lower than that of glycerin.
-Label: But we're good with glycerine, we're good with blood sugar, and very few patients have low blood sugar.
-Text: While it is clear that the director has been on the market for glyclinol for so many years and that it is now more widely applied in the clinical field, look at our biggest real world study in China, oppo, which shows that almost 20,000 patients in the group have an empty stomach of only about 40 per cent, and I think this also represents a general situation in China, where the average dose of basic insulin is 0.18 kilograms of body weight, with very few dose adjustments prior to and after the visit, and I think we are afraid of low blood sugar, so concerns about low blood sugar can also affect our clinical dose adjustment, thus affecting the efficacy of treatment.
-Label: The dosage is too low for low blood sugar, but the patients here are still able to control it.
-Text: We all have higher levels of teachers and more regular management, but with regard to low blood sugar, we can't underestimate its risks, especially severe low blood sugar, and low blood sugar that happens at night when patients are unconscious.
+text: The director is busy. You have a lot of patients today. I'll get you a glass of hot water.
+label: Thank you, Choi.
+text: I see that we've been using a lot of glycerine recently. Our company has not produced a new glycerine, which is also a long-lived base insulin. Now that I have brought you a few samples, it has entered the National Health Insurance, which is similar to the price of a reimbursement policy for glycerin, and if a patient who needs the initial base insulin can try it, his emptied blood sugar control will be much better than glycerin insulin.
+label: I've heard about it in Germany, like it has a lower risk of low blood sugar, right?
+text: The Director is right. Thank you for your attention to our new drug. All the lct experiments and real world studies on the insulin skin of Devereaux have found that the risk of low blood sugar is significantly lower than that of glycerin.
+label: But we're good with glycerine, we're good with blood sugar, and very few patients have low blood sugar.
+text: While it is clear that the director has been on the market for glyclinol for so many years and that it is now more widely applied in the clinical field, look at our biggest real world study in China, oppo, which shows that almost 20,000 patients in the group have an empty stomach of only about 40 per cent, and I think this also represents a general situation in China, where the average dose of basic insulin is 0.18 kilograms of body weight, with very few dose adjustments prior to and after the visit, and I think we are afraid of low blood sugar, so concerns about low blood sugar can also affect our clinical dose adjustment, thus affecting the efficacy of treatment.
+label: The dosage is too low for low blood sugar, but the patients here are still able to control it.
+text: We all have higher levels of teachers and more regular management, but with regard to low blood sugar, we can't underestimate its risks, especially severe low blood sugar, and low blood sugar that happens at night when patients are unconscious.
 I don't think so.
 Although the incidence of these serious incidents is not high, as is the case with air accidents, it happens occasionally, with severe Earth patients, who are 3.8 times more likely to die from blood-smoking diseases than ordinary patients, with severe blood sugar at night if it occurs or irreversibly, and much less likely to reduce the patient’s expectations of treatment and dependence. Our Devote experiment in Devote in Insulin confirms that serious low blood sugar is occurring in the Valley, with a 40% lower risk than glycerin, and a 53% reduction in the risk of severe low blood sugar occurring at night.
 I don't think so.
 The ninth sugar is also related to the Insulin Insulin Review, which is more evenly distributed indoors, reducing the risk of blood sugar fluctuations and reducing the risk of cardiovascular complications among patients.
 I don't think so.
 If you look at the same price and reimbursement policy now, you can rest assured that you have some good cases, and we'll ask you to speak to the other doctors at our next meeting.
-Label: Let's take a look at the original version of Devote and some of your relevant experimental information.
+label: Let's take a look at the original version of Devote and some of your relevant experimental information.
 I don't think so.
 No problem, chief.
-Text: In addition to the devote experiment that we have just introduced to you, we have an excellent experiment, which is a real world study that shows that, even when patients who used basic insulin, including glyph insulina configurations, etc., are converted to the delta valley, the empty stomach is reduced by 1.5 millimil per litre. I will also take a copy of the text of our pkpt, and I say that day-to-day variability in both day-to-day distribution and sugar treatment is much better than glycerin.
-Label: Okay, you bring it next time, okay.
-Text: Thank you, Director. Don't forget, if you need anything, that basic insulin patients can try to use a sample of Deokyeon, bye-bye.
+text: In addition to the devote experiment that we have just introduced to you, we have an excellent experiment, which is a real world study that shows that, even when patients who used basic insulin, including glyph insulina configurations, etc., are converted to the delta valley, the empty stomach is reduced by 1.5 millimil per litre. I will also take a copy of the text of our pkpt, and I say that day-to-day variability in both day-to-day distribution and sugar treatment is much better than glycerin.
+label: Okay, you bring it next time, okay.
+text: Thank you, Director. Don't forget, if you need anything, that basic insulin patients can try to use a sample of Deokyeon, bye-bye.
 I don't think so.
 Episode_done: True
-Text: How do you do, Chief Cao?
-Label: You're here, Joo.
-Text: I come to see your director today what kind of program you usually use to treat patients who do not meet the criteria for oral treatment. No.
-Label: A basic insulin is usually added, and then becomes available.
-Text: Just one basic insulin. I can understand that you're a patient who doesn't have the standard for oral medication. Is that what you're giving the patient is oral plus basic treatment?
-Label: Yes, Director.
-Text: Yeah, I'll check again with you. Here's the chief. How's the blood sugar control for this part of the patient?
-Label: It's okay.
-Text: All right, all right.
+text: How do you do, Chief Cao?
+label: You're here, Joo.
+text: I come to see your director today what kind of program you usually use to treat patients who do not meet the criteria for oral treatment. No.
+label: A basic insulin is usually added, and then becomes available.
+text: Just one basic insulin. I can understand that you're a patient who doesn't have the standard for oral medication. Is that what you're giving the patient is oral plus basic treatment?
+label: Yes, Director.
+text: Yeah, I'll check again with you. Here's the chief. How's the blood sugar control for this part of the patient?
+label: It's okay.
+text: All right, all right.
 I don't think so.
 Chief Cao is okay with this part of the patient. Are you concerned about this part of the patient's blood sugar after your meal?
-Label: You see that some of the concerns are not, and you mention that some of the patients are actually not very well controlled after dinner.
-Text: Chief, I understand that some of the patients in this group have poor post-dinner glucose control, and some of the patients have poor post-dinner glucose control. Have you ever been aware of any specific cases where there has been an increase in glucose from individual patients? Can I ask you a question?
-Label: If the increase is around 4,34345 or so, that's about it.
-Text: The increase is quite high, as noted by the Director in his clinical guidance for the conversion of a programme following the introduction of insulin into type II diabetes in 2017. The timing of the optimisation of the low-control programme on basic insulin is also an empty three-month period, and his patient has met the standard, glucose or dietary standards, if the patient ' s basic insulin journal is more than 0.4 to 0.6 kg/kg per kilogram, and, as you have just mentioned, some of the patients in this group have increased their blood sugar by more than four per millimeter, and this guide recommends that the patient be optimized to pre-insulin at a time equal to 3 millor per litre.
+label: You see that some of the concerns are not, and you mention that some of the patients are actually not very well controlled after dinner.
+text: Chief, I understand that some of the patients in this group have poor post-dinner glucose control, and some of the patients have poor post-dinner glucose control. Have you ever been aware of any specific cases where there has been an increase in glucose from individual patients? Can I ask you a question?
+label: If the increase is around 4,34345 or so, that's about it.
+text: The increase is quite high, as noted by the Director in his clinical guidance for the conversion of a programme following the introduction of insulin into type II diabetes in 2017. The timing of the optimisation of the low-control programme on basic insulin is also an empty three-month period, and his patient has met the standard, glucose or dietary standards, if the patient ' s basic insulin journal is more than 0.4 to 0.6 kg/kg per kilogram, and, as you have just mentioned, some of the patients in this group have increased their blood sugar by more than four per millimeter, and this guide recommends that the patient be optimized to pre-insulin at a time equal to 3 millor per litre.
 I don't think so.
 Do you agree with the Director?
-Label: There's a good plan, too. Can you elaborate on that?
-Text: In 2017, you also gave a lecture to Mr. Chu. Three months is for patients to use oral and basics. Three months later, an empty stomach meets the criteria, but you also said that some of the patients had an increase after dinner and were more than four.
+label: There's a good plan, too. Can you elaborate on that?
+text: In 2017, you also gave a lecture to Mr. Chu. Three months is for patients to use oral and basics. Three months later, an empty stomach meets the criteria, but you also said that some of the patients had an increase after dinner and were more than four.
 I don't think so.
 For this group of patients, if the patient ' s basic insulin diary is more than 0.4 - 0.6 units per kilogram of body weight, or if the after-food blood sugar increases more than 3 millimil per litre of this group of patients, can you see that the patient ' s oral plus base is optimized to pre-insulin? Do you agree with this?
-Label: I'm pretty sure, because I didn't say you hadn't noticed before, but actually number three takes care of the size or you can think about your pre-insulin.
-Text: Yes, thank you very much for your approval of one of the patients of pre-insulin. The director of pre-insulin. If there is a patient in your clinic, you can select a patient who can use the oral plus base, if the other patient you have just mentioned is already more than 4 millimel per litre.
-Label: So there's nothing wrong with it. I'd like to try it after you're done.
-Text: Mm-hmm. Okay, thank you very much, Director. Okay.
-Label: I'll know when you get there.
-Text: You're busy. I see you have a lot of patients. See you later.
+label: I'm pretty sure, because I didn't say you hadn't noticed before, but actually number three takes care of the size or you can think about your pre-insulin.
+text: Yes, thank you very much for your approval of one of the patients of pre-insulin. The director of pre-insulin. If there is a patient in your clinic, you can select a patient who can use the oral plus base, if the other patient you have just mentioned is already more than 4 millimel per litre.
+label: So there's nothing wrong with it. I'd like to try it after you're done.
+text: Mm-hmm. Okay, thank you very much, Director. Okay.
+label: I'll know when you get there.
+text: You're busy. I see you have a lot of patients. See you later.
 I don't think so.
 Episode_done: True
-Text: Liu, when you say you've been working for 42 hours, I'm afraid that if he injects it once a day, he will be able to accumulate in the body.
-Label: You're on your side about a resonance of No and D in your body, are you worried about the patient's reaction to a low-blood sugar, fearing that the patient will use No and D, and then produce an accumulation in your body, and then cause it to react to a low-blood sugar at the time of the next injection, is that what it looks like?
+text: Liu, when you say you've been working for 42 hours, I'm afraid that if he injects it once a day, he will be able to accumulate in the body.
+label: You're on your side about a resonance of No and D in your body, are you worried about the patient's reaction to a low-blood sugar, fearing that the patient will use No and D, and then produce an accumulation in your body, and then cause it to react to a low-blood sugar at the time of the next injection, is that what it looks like?
 I don't think so.
 There are real concerns about the fact that we are concerned about you being a clinical doctor. So No and Dat's half-life is 20, 24 hours, so let's take a look at it through his pharmacological and pharmacological dynamics, and I'll explain it to you slowly, and sometimes we call it half-life, half-life, and sometimes we call it consumption half-life or plasma half-life in the clinical, and it's a reaction to a stable blood dose, a 50% reduction in the time, right?
 I don't think so.
@@ -127,20 +127,20 @@ I don't think so.
 So, at the same time, you see the Director through a theory from which we look at the map, the half-life of Nord-Da is about 25 hours, so that when a steady state is reached every day, an insulin is released into the blood, which produces an effective blood concentration and is maintained within the expected range, it also does not give rise to a continuation.
 I don't think so.
 And we've done a lot of research in the middle of the clinic, and I know that if insulin is concentrated in the body, the reaction is mostly low blood sugar, right? So we've got a few rct studies, for example, some of them in the real world, whether it's a serious low blood sugar, or a symptomatic low blood sugar at night, including some of the overall low blood sugar, which is much lower than glycerin compared to Rhoda and glycerin, so the Director doesn't know if you have any more doubts about the explanation I've given you for this recollection.
-Text: Okay, I get it, I get it when you say it.
-Label: Well, thanks to the director, and then if you're saying that we're here because No and Da Cynic may also be a new type of insulin, and the teachers' clinical experience is not good, then if there's a patient in need of it, then I'm going to have the Director's experience in this and if there's any question about it in the future, why don't you ask me about Liu and try to find my medical consultant in the company or some documents, including some of these intellectual papers, and bring them to the director?
-Text: Yes.
+text: Okay, I get it, I get it when you say it.
+label: Well, thanks to the director, and then if you're saying that we're here because No and Da Cynic may also be a new type of insulin, and the teachers' clinical experience is not good, then if there's a patient in need of it, then I'm going to have the Director's experience in this and if there's any question about it in the future, why don't you ask me about Liu and try to find my medical consultant in the company or some documents, including some of these intellectual papers, and bring them to the director?
+text: Yes.
 I don't think so.
 Episode_done: True
-Text: Hello, Mr. Chu. I've come to bring you two samples of Notre Dame. I'd like to give you a try. I shared some basic knowledge of Notre Dame's products with you the last time.
+text: Hello, Mr. Chu. I've come to bring you two samples of Notre Dame. I'd like to give you a try. I shared some basic knowledge of Notre Dame's products with you the last time.
 I don't think so.
 I understand your problem, Mr. Chu, but you still have some questions about whether a daily insulin injection in Tegiya could cause a vacuum, don't you?
-Label: Chu.
-Text: Thank you very much, too, for your concern about insulin in Tegiya, which is also a question raised by many teachers.
+label: Chu.
+text: Thank you very much, too, for your concern about insulin in Tegiya, which is also a question raised by many teachers.
 I don't think so.
 This is about the concept of a weekend half-life, which means that the insulin half-life reaction that we inject under our skin is a drug-absorption process, not a blood-eradication process, as you should have known before.
-Label: Director.
-Text: This would explain why the main extension mechanism for insulin is actually a multimagnosis-specific constant under the skin, which is reflected in China's half-life as a drug absorption process, so that it is stored in a submersible reservoir, where it does not play a degenerative role.
+label: Director.
+text: This would explain why the main extension mechanism for insulin is actually a multimagnosis-specific constant under the skin, which is reflected in China's half-life as a drug absorption process, so that it is stored in a submersible reservoir, where it does not play a degenerative role.
 I don't think so.
 So, from this point of view, it's possible to remove a part of it, and I'll go back to you again in detail. As insulin enters the human body, the process of blood circulation is four to six minutes, i.e., the insulin monomer, which, in fact, follows the first degree of glycodynamics, which is what we call the constant rate elimination, and the three to five half-half-life of each injection can be completely metabolized, that is, after three to five and a half months, we can achieve a stable process.
 I don't think so.
@@ -161,56 +161,56 @@ I don't think so.
 Goodbye, Miss Chu.
 I don't think so.
 Episode_done: True
-Text: Little Jang and Da and Glyph insulin have similar effects, I think. And both have the same kung fu, basically no difference.
-Label: The chief is concerned that No and Da are also similar to base insulin, the efficacy of which is between glycerin and insulin, which means that the advantages of reducing sugarification and empty stomachs are not particularly obvious, do you mean?
-Text: Yes.
-Label: I can understand that, because Nord and Da are, after all, a brand-new basic insulin analogue on the market, what we say about clinically used cases or clinically used experiences is also relatively new. So we have some and sufficient evidence-based medical evidence, both at home and abroad, that supports it. So, first of all, I would like to present you with a rct study of Nord and Da, as well as more research in the knowledge world.
+text: Little Jang and Da and Glyph insulin have similar effects, I think. And both have the same kung fu, basically no difference.
+label: The chief is concerned that No and Da are also similar to base insulin, the efficacy of which is between glycerin and insulin, which means that the advantages of reducing sugarification and empty stomachs are not particularly obvious, do you mean?
+text: Yes.
+label: I can understand that, because Nord and Da are, after all, a brand-new basic insulin analogue on the market, what we say about clinically used cases or clinically used experiences is also relatively new. So we have some and sufficient evidence-based medical evidence, both at home and abroad, that supports it. So, first of all, I would like to present you with a rct study of Nord and Da, as well as more research in the knowledge world.
 I don't think so.
 So first, let's look at the Rct study, which means that two groups of controls are going to reach the same level of glucose hemoglobin, and then compare them to a lower level of abdominal reduction. So we can see in the five studies that, compared to glyph insulin, the lower abdominal glucose is clearly better than the lower abdominal glucose, which means that no and da are better than glycine insulin. Then, back to our real world research, it is also clear that the lower abdominium is also better than glyclinic insulin.
 I don't think so.
 In addition to this, our eu study shows that, in relation to the use of other basic insulins, including glyclin, which are not well controlled, it can be converted into glyclinic insulin, and it can further reduce the amount of glycene 0.5 to the soup finger, as well as the amount of emptied haemorrhage per litre of his patients. Once again, it is clear that in reducing abdominal and glucone, the efficacy of our insulin is better than glycine insulin.
 I don't think so.
 You see the director's concern about this study, see if I can explain it, or do you have any other questions?
-Text: For the time being, it's not a problem, it's probably a new drug, and we're not very experienced with it, so it's probably just like single glycerin insulin. But do you have any originals for these studies?
-Label: Good Director, that's what I'd like to tell you. It might be easier if you were in the ward tomorrow. I'll bring you the background and data of some of these specific studies, his originals, and we'll do some more analysis and research together.
-Text: Yes, I'll be fine after 9 a.m. tomorrow. You can bring it to me, and then you can say that I'll look for you again if the drug is used in our section later.
-Label: Director of Good Lines.
+text: For the time being, it's not a problem, it's probably a new drug, and we're not very experienced with it, so it's probably just like single glycerin insulin. But do you have any originals for these studies?
+label: Good Director, that's what I'd like to tell you. It might be easier if you were in the ward tomorrow. I'll bring you the background and data of some of these specific studies, his originals, and we'll do some more analysis and research together.
+text: Yes, I'll be fine after 9 a.m. tomorrow. You can bring it to me, and then you can say that I'll look for you again if the drug is used in our section later.
+label: Director of Good Lines.
 I don't think so.
 Episode_done: True
-Text: If it's going to accumulate, then King will explain it to you, so first it is.
-Label: Absolutely not.
-Text: Why? Because all of our insulin is meant to be a half-life, and it's divided into weekends, and our half-life is now called weekend half-life, which is sometimes called clearing half-life, and sometimes we are called plasma half-life, so his director, you know how little he talks, he's the one that reflects the steady state of our drug, for example, that it needs to be concentrated to peak and then reduce it by 5% to half, which is called the drug half-life, so that the half-life of the drug is 25 hours, which he knows, on the one hand, the director.
+text: If it's going to accumulate, then King will explain it to you, so first it is.
+label: Absolutely not.
+text: Why? Because all of our insulin is meant to be a half-life, and it's divided into weekends, and our half-life is now called weekend half-life, which is sometimes called clearing half-life, and sometimes we are called plasma half-life, so his director, you know how little he talks, he's the one that reflects the steady state of our drug, for example, that it needs to be concentrated to peak and then reduce it by 5% to half, which is called the drug half-life, so that the half-life of the drug is 25 hours, which he knows, on the one hand, the director.
 I don't think so.
 So the second thing is that all of the basic insulin that we have now is that it follows the first degree of drug-degenerative elimination, which means that the constant ratio is eliminated.
 I don't think so.
 So we're three to five half-lives after a single injection, and it's basically rid of glycerin from our body, and since then, when it's stabilized, its drug levels will remain essentially unchanged.
 I don't think so.
 Well.
-Label: If you say yes.
-Text: With this detailed example, for example, the director gave us 10 units of insulin on our first day, it went in, it went through the first degree of pharmacodynamics, it went into the blood circulation, it worked with the proteins, and one and a half five units were stored in the subterranean storage, so it didn't work, and by the next day, the director gave us another 10 units because it was supposed to be injected the next day.
-Label: So inside of us.
-Text: The original five units were insulin in five units, so that 15 units were recycled through the first level of pharmacodynamic elimination, and then half 77.5 units in 15 units, so he worked.
+label: If you say yes.
+text: With this detailed example, for example, the director gave us 10 units of insulin on our first day, it went in, it went through the first degree of pharmacodynamics, it went into the blood circulation, it worked with the proteins, and one and a half five units were stored in the subterranean storage, so it didn't work, and by the next day, the director gave us another 10 units because it was supposed to be injected the next day.
+label: So inside of us.
+text: The original five units were insulin in five units, so that 15 units were recycled through the first level of pharmacodynamic elimination, and then half 77.5 units in 15 units, so he worked.
 I don't think so.
 So on the third day, we said that we had 7.5 units in the vault under our skin, plus 17.5 units in the 10 units that we injected on the third day, so 17.5 units in the 17.5 units were cleared by the first level of drug substitution drug mechanics, and then 28,162,98 units in the 8th, close to 8.5 units, so he went into the blood cycle, once, and on the 4th we added 17 units in the 17.5, 17.5 days in the blood cycle, and half in the insulin reservoir, so that in the 5th day it would approach the 10 units of this type, and then 10 units in the blood cycle to function, and that it would reach this biological cycle of steadyness, and it would do that.
 I don't think so.
 So that's the point. The director, in fact, is one of its drug-degenerative dynamics that goes into the circulation of the blood cycle. Then, on the other hand, it's the other way around.
-Label: Say you just did.
-Text: Fear of accumulation of insulin in the body is mainly due to the impact of accumulation, which is certain to have some of the effects of negative events such as low blood sugar.
+label: Say you just did.
+text: Fear of accumulation of insulin in the body is mainly due to the impact of accumulation, which is certain to have some of the effects of negative events such as low blood sugar.
 I don't think so.
 But in these events, No and Dat, in all of his rct studies, he confirmed that the risk of low blood sugar is significantly lower than glyph insulin, so we can see that in the Biegen series, in the Macter analysis of the Begansbeegen series, severe low blood sugar can be reduced by 86 per cent, while the switch study also shows that the symptomatic low blood sugar can be reduced by 25 per cent compared to glycerin at night, and that our dot study shows that it can be reduced by 40 per cent compared to glycerin at night and by 53 per cent at night, which is the equivalent of a lot of research, and that it can be counter-provocated from the other side, which suggests that one of the safetys of the delta insulin is very good, so it would not cause such accumulation.
 I don't think so.
 And...
-Label: Uh-uh, turn you around.
-Text: There are times when it comes to accumulation.
+label: Uh-uh, turn you around.
+text: There are times when it comes to accumulation.
 I don't think so.
 Episode_done: True
-Text: All right, hello. Hello.
+text: All right, hello. Hello.
 I don't think so.
 Mr. Liu, last time I talked to you about the clinical efficacy and safety of our winter 30, you also told me that you'd choose one patient to be useful in 8.5% of the glucose haemoglobin patients, so do you have any other questions for clinical use? I wanted to talk to you about this today.
-Label: Like this, Jang might have used phantom 25 or more before, and then I found out and told you that the patient had tried z30 for a year or two now, and I found it as if you were not much different from eugenic No.25.
-Text: You're telling me that we did have a lot of clinical experience before, and that you might have used a lot of omelet 25, and then after three years of applying our NO and Ri, you don't think there's any difference in health treatment, do you?
-Label: There is a feeling about the world, because I think it's all pre-insulin and it's all about the same proportion, so it's about the same as when it's used.
-Text: The Director does have more clinical experience on your side, and it is true that we have more insulin than we do, so we Noor and Rittkin, because it contains 30% of the quick-effects component, U. Miller 25% of the quick-impact component, and then compared to u. Miller two or five times, because of the difference in composition, clinical studies show that Ell-Hurey 30 is Yommel 25, which is a post-dinner sugar better able to control type II diabetes patients.
+label: Like this, Jang might have used phantom 25 or more before, and then I found out and told you that the patient had tried z30 for a year or two now, and I found it as if you were not much different from eugenic No.25.
+text: You're telling me that we did have a lot of clinical experience before, and that you might have used a lot of omelet 25, and then after three years of applying our NO and Ri, you don't think there's any difference in health treatment, do you?
+label: There is a feeling about the world, because I think it's all pre-insulin and it's all about the same proportion, so it's about the same as when it's used.
+text: The Director does have more clinical experience on your side, and it is true that we have more insulin than we do, so we Noor and Rittkin, because it contains 30% of the quick-effects component, U. Miller 25% of the quick-impact component, and then compared to u. Miller two or five times, because of the difference in composition, clinical studies show that Ell-Hurey 30 is Yommel 25, which is a post-dinner sugar better able to control type II diabetes patients.
 I don't think so.
 Secondly, in our China note, No and Rí 30 can be approved, with one injection twice or three times a day, thus providing patients with a choice of flexible treatment options ranging from initial to intensive, meeting the treatment needs of type II diabetic patients at different stages and helping them to achieve a long-term blood sugar standard.
 I don't think so.
@@ -223,134 +223,134 @@ I don't think so.
 So, finally, we have No and Re 30, together with the memory-functional Noon and Noonu, which have a very small bullet-like window, and an integrated service for the care of Noor and Nord patients, which is to buy 60 credits for each box of Nono and Rittkin to live in a treasure-scanding branch, to buy 150 points plus one cent, and to give patients a box of Nono and Nod needles, a long-term No and Nod care service that allows patients to benefit better from the control of blood sugar for type 2 diabetes patients, whether at the beginning or at the end of insulin treatment.
 I don't think so.
 I don't know if my explanation would dispel one of your doubts about the efficacy of Noel and Rey 30 and Corner 25?
-Label: That's about it, because you're also a classic drug, and it's not going to work, so I'll take a look at it later, and I'll try some more cases, and you just said if you said you could change your needles, right?
+label: That's about it, because you're also a classic drug, and it's not going to work, so I'll take a look at it later, and I'll try some more cases, and you just said if you said you could change your needles, right?
 I don't think so.
 Right.
-Text: Because our company worked with Ali Health on the subject of diabetes, one of the long-term care projects for these sugar friends is that we go to scan the drug box with a bar code under the National Electronic Drug Control Service, and then clean it with the payment treasure, not only will it be possible to determine whether the drug is authentic, but we can also see a box of drugs that can give him points, 150 points, and then add a penny, and we can exchange a needle for an insulin pen for a diabetic.
+text: Because our company worked with Ali Health on the subject of diabetes, one of the long-term care projects for these sugar friends is that we go to scan the drug box with a bar code under the National Electronic Drug Control Service, and then clean it with the payment treasure, not only will it be possible to determine whether the drug is authentic, but we can also see a box of drugs that can give him points, 150 points, and then add a penny, and we can exchange a needle for an insulin pen for a diabetic.
 I don't think so.
 You know that these patients who go to insulin not only pay part of the cost of insulin, but that needles are also an essential consumption. So the medication that we care about can ease the patient’s financial burden.
-Label: It's fine. I have patients on the back of this project. I'll tell him about it.
+label: It's fine. I have patients on the back of this project. I'll tell him about it.
 I don't think so.
 Okay.
-Text: Thank you for the Director ' s support, hoping that the Director will encounter such poor oral control in his subsequent clinical work, and then consider a two-in-a-day treatment for Nokia30bad when a patient whose glutinated haemoglobin is more than 8.5 per cent can choose a treatment with him.
-LABEL: Okay, thank you, chief. Bye.
+text: Thank you for the Director ' s support, hoping that the Director will encounter such poor oral control in his subsequent clinical work, and then consider a two-in-a-day treatment for Nokia30bad when a patient whose glutinated haemoglobin is more than 8.5 per cent can choose a treatment with him.
+label: Okay, thank you, chief. Bye.
 I don't think so.
 Episode_done: True
-TEXT: All right, today I'm working with Yeh-jin as a team, and the challenge we've chosen is that, after a period of insulin use, if the treatment fails, I can adjust the dose of insulin or increase the amount of oral sugar insulin, so that it can be easily adjusted and the patient can accept it, and why I have to change it to No and Re 30. And then we can officially begin with the basis of our exercise.
-Label: Insulin plus oral drugs can be well controlled and there is no need for further optimization.
-Mr. Text: Hello, you are also very concerned about the patient. You also told me earlier that you had chosen the basic insulin for oral medication, mainly because it was easier for patients to consider their treatment, and then it was easier for patients to handle it. Is that so? Director? Yes.
-Label: One of the main considerations is that patients are easier to use, easier to operate and may feel more dependent.
-Text: Thank you, Director, for your response. You're really starting from a patient's point of view. I'd like to come with you today to discuss and study this matter.
+text: All right, today I'm working with Yeh-jin as a team, and the challenge we've chosen is that, after a period of insulin use, if the treatment fails, I can adjust the dose of insulin or increase the amount of oral sugar insulin, so that it can be easily adjusted and the patient can accept it, and why I have to change it to No and Re 30. And then we can officially begin with the basis of our exercise.
+label: Insulin plus oral drugs can be well controlled and there is no need for further optimization.
+Mr. text: Hello, you are also very concerned about the patient. You also told me earlier that you had chosen the basic insulin for oral medication, mainly because it was easier for patients to consider their treatment, and then it was easier for patients to handle it. Is that so? Director? Yes.
+label: One of the main considerations is that patients are easier to use, easier to operate and may feel more dependent.
+text: Thank you, Director, for your response. You're really starting from a patient's point of view. I'd like to come with you today to discuss and study this matter.
 I don't think so.
 First of all, diabetes is a sexually active disease, and, uh, the level of glucose haemoglobin will increase as the process expands, as the cell function of the Beta cell decreases. Obitt also studied that three months after the beginning of insulin treatment in the Chinese population, the rate of achievement of glucose haemoglobin was only 35.9 per cent, and this figure is very low.
 I don't think so.
 The director doesn't know how you've been treating this phenomenon before?
-Label: This research has also been seen before.
-Text: Did the director say that you approved the basic insulin plus stock, and that it couldn't actually make the blood sugar standard for a long time, right?
-LABEL: Director? That's what's going on in the long run.
-Text: Yes, Director, it's a guide to diabetes in our country and abroad, and it's a treatment path to pre-insulin when basic insulin is poorly controlled.
+label: This research has also been seen before.
+text: Did the director say that you approved the basic insulin plus stock, and that it couldn't actually make the blood sugar standard for a long time, right?
+label: Director? That's what's going on in the long run.
+text: Yes, Director, it's a guide to diabetes in our country and abroad, and it's a treatment path to pre-insulin when basic insulin is poorly controlled.
 I don't think so.
 When an optimisation programme was offered for patients using basic insulin for more than six months, empty abdominal blood sugar was achieved, but the glucose haemoglobin, or glucose after meal, was still not achieved, or the increase in glucose after meal was more than three millimores per litre, or the log count for basic insulin exceeded 0.4 to 0.6 units per kilogram of body weight per day.
 I don't think so.
 It's better for us at this point in time to optimize it to prevent insulin twice a day. I wonder if you agree with the Director?
-Label: You said you could try it, you could try it clinically, you could look at it.
-Text: Thanks to the Director's response, you've been starting from a patient's point of view, because basic insulin is more expensive, and if it keeps increasing the insulin dose, the greater it will cause some insulin resistance.
+label: You said you could try it, you could try it clinically, you could look at it.
+text: Thanks to the Director's response, you've been starting from a patient's point of view, because basic insulin is more expensive, and if it keeps increasing the insulin dose, the greater it will cause some insulin resistance.
 I don't think so.
 Coupled with some oral drop-in drugs, the cost of treatment for patients is higher and the quality of life of patients is lower.
 I don't think so.
 I have spoken to you before, with a Chinese sub-group study on a Bay TV, and a recent 4200 study, where he said that the conversion of Chinese type 2 diabetes patients with poor control over basic insulin into Noor and Rittkin could significantly improve blood sugar control twice a day, without increasing geographical risk, and could save one of the total costs of the related drugs and treatment.
 I don't think so.
 The director doesn't know that I'm explaining to you that you think that Noor and Ray are constantly increasing base factor doses and oral drugs compared to 30, and he says that Noor and Ray 30bad are a better program director?
-Label: You might feel better when you say this, but the actual situation depends on a clinical process.
-Text: Well, if you look at this week's clinic, you can't pick one to two patients. For these patients with poor insulin control, let's turn to Noor and Ri 30bit to observe his out-of-hospital glucose control. A regular follow-up visit to him. Let's see how he works.
-Label: You can try it.
-Text: Okay, thank you, chief.
+label: You might feel better when you say this, but the actual situation depends on a clinical process.
+text: Well, if you look at this week's clinic, you can't pick one to two patients. For these patients with poor insulin control, let's turn to Noor and Ri 30bit to observe his out-of-hospital glucose control. A regular follow-up visit to him. Let's see how he works.
+label: You can try it.
+text: Okay, thank you, chief.
 I don't think so.
 Episode_done: True
-Text: Hello, Mr. Tang. The other day, I heard you say that one patient used Degulin. What's the status of the patient?
-Label: I used Germany with a lot of confidence and hope, but when I ran out, it didn't make much difference to glycemics, and so on.
-Text: I'd like to ask the patient, what was his plan?
-Label: The door winter with three pins of glycerin reinforced glycerin was used before, and then you didn't say that I introduced you to Germany? Then I changed the glycerin to Germany.
-Text: Using the 3+1 formula, the patient should have been, uh, a blood sugar-controlled one of his patients and should have been very poor at the time.
+text: Hello, Mr. Tang. The other day, I heard you say that one patient used Degulin. What's the status of the patient?
+label: I used Germany with a lot of confidence and hope, but when I ran out, it didn't make much difference to glycemics, and so on.
+text: I'd like to ask the patient, what was his plan?
+label: The door winter with three pins of glycerin reinforced glycerin was used before, and then you didn't say that I introduced you to Germany? Then I changed the glycerin to Germany.
+text: Using the 3+1 formula, the patient should have been, uh, a blood sugar-controlled one of his patients and should have been very poor at the time.
 I don't think so.
 What was the measure before the 3+1 formula used?
-Label: Was it 12 in the pre-German single room first for Germany or 12 in the pre-German single room?
-Text: That's when the dosage is converted. Here's what Mr. Cao said.
-Text: Because for you to see this patient, he had already used a 3+1 scheme before he used Devo, which suggests that one of his blood sugar controls by this patient should be very poor, since none of his blood sugars were met by 3+1.
+label: Was it 12 in the pre-German single room first for Germany or 12 in the pre-German single room?
+text: That's when the dosage is converted. Here's what Mr. Cao said.
+text: Because for you to see this patient, he had already used a 3+1 scheme before he used Devo, which suggests that one of his blood sugar controls by this patient should be very poor, since none of his blood sugars were met by 3+1.
 I don't think so.
 After the Chengde Valley is now used, because you are a grade conversion, because after three days of steadyness, we need to adjust the patient's dose of one of his insulin, because the patient's base is not large.
 I don't think so.
-Text: How much did you say the patient used German gluten?
-Label: 12, 12 units.
-Text: You're always using base amounts, but he's using very small, but not very big.
+text: How much did you say the patient used German gluten?
+label: 12, 12 units.
+text: You're always using base amounts, but he's using very small, but not very big.
 Three days later, if his empty abdominal blood sugar remains unsatisfied, it could actually increase the patient's dose of one of its basic insulin.
 I don't think so.
 Because one of the low blood sugars that was mentioned earlier to you is much better than glycerine, because we sometimes have a clinical fear of low blood sugar, which prevents the patient from adjusting a dose of insulin, but it is very safe in Degull, which would also significantly reduce your concern to increase the insulin dose in basic insulin.
 I don't think so.
 You also mentioned earlier that the insulin of the valley is better than the insulin, and that in the real world, one of the experiments of the earth also confirmed the conversion from other basic insulin to German insulin, which was further reduced by a further 1.5 per cent, i.e., one of the drops of sugar in the valley is better than glyclopin, either from the rect or from the real world study. You may have encountered a patient who was admitted to the hospital for three days, but who did not adjust a dose of insulin to his insulin, which is also known to you because Germany has stabilized for three days.
 I don't think so.
-Text: If his stomach is still empty, I suggest that you increase the dose to the patient properly, so that one of his water drops low and his blood sugar drops when the insulin dose increases.
+text: If his stomach is still empty, I suggest that you increase the dose to the patient properly, so that one of his water drops low and his blood sugar drops when the insulin dose increases.
 I don't think so.
 And one of them is actually using 3+1 as a formula, so I'll see if we can try to test the insulin and find a new patient to look at the efficacy of its congener and its safety if we don't have a very long pathology in our ward.
 I don't think so.
 Mr. Tong, do you think you can do this? You need to start insulin for patients in the wards who have poor control over their oral medications.
-Label: You mean because I didn't meet the standards or because I didn't adjust the dose?
-Text: Normally, because Tegiya insulin is three days of steady state, we can give patients an additional dose of insulin if it is empty or not, because the patient actually uses 12 units, not much, because we may have been worried about low blood sugar, and sometimes the base insulin is afraid to give him an adequate dose.
+label: You mean because I didn't meet the standards or because I didn't adjust the dose?
+text: Normally, because Tegiya insulin is three days of steady state, we can give patients an additional dose of insulin if it is empty or not, because the patient actually uses 12 units, not much, because we may have been worried about low blood sugar, and sometimes the base insulin is afraid to give him an adequate dose.
 One of its second chambers, either at night or at night, is significantly superior to glycerin, and one of its blood sugars is very small in variants, so safety is very good, and you need not worry too much about increasing your insulin dose.
-Label: Okay, I'll try adjusting the dose to see what's going on.
-Text: For this patient, you can try to adjust the dose again and look at the dose of basic insulin. Then you can pick up some of the patients in the ward who do not meet the standards for oral drugs, and you need to re-observate one of the effects of basic insulin and its safety.
-LABEL: I got it.
-Text: Thank you, teacher. I have a lot of samples in Cote, five more, and if there's one in the ward tomorrow, you can try two cases of this type of patient in the hospital if the oral medication is not satisfactory.
-Label: All right, all right, I got it.
-Text: Okay, thank you, Miss Tang. I'll come back tomorrow.
+label: Okay, I'll try adjusting the dose to see what's going on.
+text: For this patient, you can try to adjust the dose again and look at the dose of basic insulin. Then you can pick up some of the patients in the ward who do not meet the standards for oral drugs, and you need to re-observate one of the effects of basic insulin and its safety.
+label: I got it.
+text: Thank you, teacher. I have a lot of samples in Cote, five more, and if there's one in the ward tomorrow, you can try two cases of this type of patient in the hospital if the oral medication is not satisfactory.
+label: All right, all right, I got it.
+text: Okay, thank you, Miss Tang. I'll come back tomorrow.
 Talker 4.
 Okay, okay, okay, bye.
 I don't think so.
 Episode_done: True
-Text: Bosses, colleagues. Today I'm going to help me practice as a doctor, and I'm going to act as a doctor as a representative of what we're dealing with today as a matter of slow processing of Nohuda's insulin. And then we're going to practice.
+text: Bosses, colleagues. Today I'm going to help me practice as a doctor, and I'm going to act as a doctor as a representative of what we're dealing with today as a matter of slow processing of Nohuda's insulin. And then we're going to practice.
 I don't think so.
 Mr. Zhang, you've recently begun to prescribe this product to our patients.
-Label: The Insulin effect in Novardabi.
-Text: Feels grateful to Director Jang for your interest in the products of Nok and Dat, and especially to your Director for the slowness of the insulin. Don't you know that's what I'm saying and I'm saying?
+label: The Insulin effect in Novardabi.
+text: Feels grateful to Director Jang for your interest in the products of Nok and Dat, and especially to your Director for the slowness of the insulin. Don't you know that's what I'm saying and I'm saying?
 I don't think so.
 Chief?
-Label: That's what it means.
-Text: The director says that Noon and Darby Ghenin are slow to function. After you have prescribed the patient, the patient has observed the results, or you have heard, or learned from other sources, that Nok and Dabi Gheng are slow to function.
-Label: He was the representative of the glycerin, and then he brought me some research, and some research data that showed that Noor and Darby Glycerin were slower, and that control of empty abdominal glycerine was better.
-Text: First of all, I would like to thank you, Director, for your interest in this product, and then I would like to commend you for your professionalism and learning.
+label: That's what it means.
+text: The director says that Noon and Darby Ghenin are slow to function. After you have prescribed the patient, the patient has observed the results, or you have heard, or learned from other sources, that Nok and Dabi Gheng are slow to function.
+label: He was the representative of the glycerin, and then he brought me some research, and some research data that showed that Noor and Darby Glycerin were slower, and that control of empty abdominal glycerine was better.
+text: First of all, I would like to thank you, Director, for your interest in this product, and then I would like to commend you for your professionalism and learning.
 I don't think so.
 In fact, when it comes to the slow functioning of Insulin in Noor and Dabigan, I have also learned about it in the relevant magazines, which means that I have a simple communication with you to see how convenient it is for you.
-Label: No, you say it.
-Text: Thank you, Mr. Director, for starting with time and achieving stability, which are two concepts, and for this, if we can understand it clearly, we can make a difference in essence between Nota and Insulin.
+label: No, you say it.
+text: Thank you, Mr. Director, for starting with time and achieving stability, which are two concepts, and for this, if we can understand it clearly, we can make a difference in essence between Nota and Insulin.
 I don't think so.
 The second point is long-acting insulin, which is usually concerned with steady-state time, which is usually used for short-term or quick-impact drugs, and is certainly more clearly known by an endocrine expert such as yours.
 I don't think so.
 On the third level, the time frame for achieving stability mentioned in the insulin and insulin instructions is similar to that for 2 to 4 days. If you want to see the time of effectiveness of both, you can refer to the Chinese Diabetes II guidelines, which range from 1 to 4 hours, to 1 to 4 hours, and I will make a simple communication between you in the following four areas. Can you see that the Director-General's answer to this question is sufficient to satisfy you with one and one view of the effects of Nona and Da and insulin?
-Label: It is important to say to you that long-acting insulin is indeed concerned with the timing of the steady state, not the timing of its effects.
-Text: Right, because the difference between long-acting insulin and disinsuasive insulin is the difference between what they do and what they do, that is the difference in nature, so it has long-acting insulin, which we all know is covered by empty abdominal sugar, so we are usually concerned with the time of achieving stability, which is often used for short-term or quick-effects, because our party and boarding schools are used for meals and are crucial to effect time, so that the two concepts are used differently for different insulin types, so we tend to evaluate basic insulin, and we tend to evaluate long-active insulin as a time-sensitive situation.
+label: It is important to say to you that long-acting insulin is indeed concerned with the timing of the steady state, not the timing of its effects.
+text: Right, because the difference between long-acting insulin and disinsuasive insulin is the difference between what they do and what they do, that is the difference in nature, so it has long-acting insulin, which we all know is covered by empty abdominal sugar, so we are usually concerned with the time of achieving stability, which is often used for short-term or quick-effects, because our party and boarding schools are used for meals and are crucial to effect time, so that the two concepts are used differently for different insulin types, so we tend to evaluate basic insulin, and we tend to evaluate long-active insulin as a time-sensitive situation.
 I don't think so.
 But for glyph insulin and tavern insulin, it's two to three days and it's two to three days old. So the question of the speed and slow effect of nona and glycerin insulin is two times similar. Do you agree with that, Director?
-Label: So to you, I understand. I see what you mean.
-Text: Thank you very much for your approval and understanding. You see that this is not a question of the effect of Norte and Glyclina. I am trying to explain to you, and I am trying to communicate with you, and I really would like you to respond to discrimination against type 2 diabetic patients.
+label: So to you, I understand. I see what you mean.
+text: Thank you very much for your approval and understanding. You see that this is not a question of the effect of Norte and Glyclina. I am trying to explain to you, and I am trying to communicate with you, and I really would like you to respond to discrimination against type 2 diabetic patients.
 I don't think so.
 And it's a lot of inspiration, and then I'm going to do a follow-up record, so you're really going to feel a problem with the time that Norda and Glycerin work.
 I don't think so.
 One more thing about the control of an empty abdominal glucose and the indicators of the various aspects of one of its banks, you can also make a personal experience, can you see, chief?
-Label: Well, because No and Da is a brand-new basic insulin analogue, and then I want to experience it, and I want to see it with a few drops and see if he can solve some of the problems.
-Text: The good director thanks you very much for a week when you're actually 1 to 2 cases of Nomadic patients, and if there's a problem or if you need me to help you with some literature or information, you can call me at any time, and I'll come back and follow up with us at any time, and look at the Director of Science and Technology.
-Label: Can do it.
-Text: Thank you again for the good director line. Good director.
+label: Well, because No and Da is a brand-new basic insulin analogue, and then I want to experience it, and I want to see it with a few drops and see if he can solve some of the problems.
+text: The good director thanks you very much for a week when you're actually 1 to 2 cases of Nomadic patients, and if there's a problem or if you need me to help you with some literature or information, you can call me at any time, and I'll come back and follow up with us at any time, and look at the Director of Science and Technology.
+label: Can do it.
+text: Thank you again for the good director line. Good director.
 I don't think so.
 Episode_done: True
-Text: How do you do?
-Label: Then Choi comes in. Thank you, Director.
-Text: When the Director visited you last time, you questioned whether there would be any savings for Nord-Da, and you came here to explain this in detail.
-Label: Do good.
-Text: Thank you, Director. First of all, you're worried about the accumulation of insulin in Devereaux, but more about the patient's low blood sugar reaction in the clinic.
-Label: Last time I heard you say it had a half-life of 25 hours, I was afraid it would accumulate in the blood and cause a low blood sugar reaction.
+text: How do you do?
+label: Then Choi comes in. Thank you, Director.
+text: When the Director visited you last time, you questioned whether there would be any savings for Nord-Da, and you came here to explain this in detail.
+label: Do good.
+text: Thank you, Director. First of all, you're worried about the accumulation of insulin in Devereaux, but more about the patient's low blood sugar reaction in the clinic.
+label: Last time I heard you say it had a half-life of 25 hours, I was afraid it would accumulate in the blood and cause a low blood sugar reaction.
 I don't think so.
 All right, chief.
-Text: I have explained to you today that, first of all, our drug half-life is divided into absorption half-life and coitus with white life, usually injected under the skin, and that its weekend half-life response is primarily a process of absorption, rather than a process of elimination after blood entry, that is, the 25-hour half-life of estuary and insulin is mainly a slow process of subdermal absorption, and you know that the long-acting insulin that we use is a long-lasting effect, whether it is glyctic or decantine, the main extension is in the process of subdermal absorption, whereas the main extension of German odorin is the ability to form soluble polychlor specific long-chains under the skin.
+text: I have explained to you today that, first of all, our drug half-life is divided into absorption half-life and coitus with white life, usually injected under the skin, and that its weekend half-life response is primarily a process of absorption, rather than a process of elimination after blood entry, that is, the 25-hour half-life of estuary and insulin is mainly a slow process of subdermal absorption, and you know that the long-acting insulin that we use is a long-lasting effect, whether it is glyctic or decantine, the main extension is in the process of subdermal absorption, whereas the main extension of German odorin is the ability to form soluble polychlor specific long-chains under the skin.
 I don't think so.
 You have just mentioned that the main misdirectorate accumulates in the blood, triggering low blood sugar, and that when insulin enters the blood cycle, it is eliminated for 4-6 minutes, so it does not continue. This is analysed from the point of view of the drug's absorption half-life.
 I don't think so.
@@ -359,16 +359,16 @@ I don't think so.
 Finally, from the point of view of clinical results, you have just mentioned that, if the primary reaction to the fallacy is low blood sugar, and in the sat and real world studies of delta insulin, we have all seen the consistent result that the incidence of low blood sugar in Germany is much lower than in glycerin, that there is no difference between treatment and recovery of low blood sugar, and that the time it takes to recover is similar.
 I don't think so.
 So you can see that there is no risk of accumulation of insulin from the point of view of pharmacodynamics or clinical results, and you can be confident that it will be used boldly.
-Label: The explanation is still very clear, and I am much clearer now that the half-life of the tavern insulin is understood to be mainly under the skin, and that the removal of the absorbed blood is rapid.
-Text: All right, Director, your doubts about the Sioux theatre in Germany have also been dispelled, and eut experiments and a number of rct experiments have confirmed that empty abdominal glucose treatment in Germany is better than glyph insulin.
-Label: Try one of the right patients.
-Text: Thank you very much, Director Jang. I'll leave you alone. Goodbye, Director.
+label: The explanation is still very clear, and I am much clearer now that the half-life of the tavern insulin is understood to be mainly under the skin, and that the removal of the absorbed blood is rapid.
+text: All right, Director, your doubts about the Sioux theatre in Germany have also been dispelled, and eut experiments and a number of rct experiments have confirmed that empty abdominal glucose treatment in Germany is better than glyph insulin.
+label: Try one of the right patients.
+text: Thank you very much, Director Jang. I'll leave you alone. Goodbye, Director.
 I don't think so.
 Episode_done: True
-Text: Li, you're here. Last time you told me it was 42 hours, so the half-life was 25 hours, so it's my understanding that he could call once a day or two, but the instructions say it's one day, so he's 25 hours a day, so does the patient have a blood stain?
+text: Li, you're here. Last time you told me it was 42 hours, so the half-life was 25 hours, so it's my understanding that he could call once a day or two, but the instructions say it's one day, so he's 25 hours a day, so does the patient have a blood stain?
 I don't think so.
 Director.
-Label: The question you asked is also very professional, right? You may have asked me to think about it from now on, because Novada is now the only super-duper insulin base, and it does work for a long time, twice as long, compared to the first insulin, and half-life is double that of Gandhi?
+label: The question you asked is also very professional, right? You may have asked me to think about it from now on, because Novada is now the only super-duper insulin base, and it does work for a long time, twice as long, compared to the first insulin, and half-life is double that of Gandhi?
 I don't think so.
 So the instructions are also recommended for daily injections, and it's certainly a question of thinking about whether daily injections will accumulate.
 I don't think so.
@@ -381,8 +381,8 @@ I don't think so.
 At that time, the scene was not bioactive, was not healthy, and insulin was basically able to achieve a clinical stability.
 I don't think so.
 You see, when I reached about three, we said from above that one of its rates was the same as the rate of removal, that the insulin dose in its body was constant, and that right there was no significant effect on the reservoir, that the baby would not accumulate, so you understand me.
-Text: If you say so, I'll probably understand. I've been thinking that he's going in. If it's accumulated, the patient's gonna have low blood sugar, but I'm thinking that there's less low blood sugar in all of your businesses, and if you say so, I'll understand, because insulin just said that you were following the first level of power elimination, and I'm fine. Thank you very much.
-Label: What is this?
+text: If you say so, I'll probably understand. I've been thinking that he's going in. If it's accumulated, the patient's gonna have low blood sugar, but I'm thinking that there's less low blood sugar in all of your businesses, and if you say so, I'll understand, because insulin just said that you were following the first level of power elimination, and I'm fine. Thank you very much.
+label: What is this?
 I don't think so.
 And just because I'm telling you this, I've got a picture here that's interesting for you, and it's all about the first level of energy sales, so let's see if we're starting with the 10 most conservative units in the book. Let's look at this, 10 units on the first day, and our last half-life is basically one day. That's 50%. That's 50%. That's 50%.
 I don't think so.
@@ -393,91 +393,91 @@ I don't think so.
 It's not like it's in the library, it's also 10, so when you call 10 more units on the fifth day of the fourth day, it's 10+10 litres 20-20, right?
 I don't think so.
 And then brush a half to absorb some, so the reservoir is always wet, so three to five days of clinical stability, it doesn't create a low-blood sugar accumulated, which should be given to the right way.
-Text: If you say it's based on the amount of dose that goes in, it's going in and out, it's going in and out, and it's going to be in and out, and it's going to be in the fourth to fifth days. Is that right?
-Label: For 10 units, for example, the most conservative 10 units, but for the same reason, if you hit 20 units, you were the same as in the fifth generation of the fourth day, except that the concentrations in the body were different, but the sales pattern was the same.
-Text: It's fine. I can try your Germany later.
-Label: Yes, because we appreciate the Director's approval, because we know that a major reason why patients' blood sugar control is not good is because we're worried about a drop in our basic insulin, right?
+text: If you say it's based on the amount of dose that goes in, it's going in and out, it's going in and out, and it's going to be in and out, and it's going to be in the fourth to fifth days. Is that right?
+label: For 10 units, for example, the most conservative 10 units, but for the same reason, if you hit 20 units, you were the same as in the fifth generation of the fourth day, except that the concentrations in the body were different, but the sales pattern was the same.
+text: It's fine. I can try your Germany later.
+label: Yes, because we appreciate the Director's approval, because we know that a major reason why patients' blood sugar control is not good is because we're worried about a drop in our basic insulin, right?
 I don't think so.
 I'm afraid to change the dosage, so when you say it's so much less risky than urea, you can feel free to use it again, you can change the dosage boldly, and then the patient's empty abdominal blood sugar gets to a point, okay?
-Text: Okay, no problem.
-LABEL: Thank you very much. Thank you very much.
-Text: Otherwise, I don't even know if it's gonna work again.
-Label: All right.
-Text: Bye-bye.
+text: Okay, no problem.
+label: Thank you very much. Thank you very much.
+text: Otherwise, I don't even know if it's gonna work again.
+label: All right.
+text: Bye-bye.
 I don't think so.
 Episode_done: True
-Text: Brother Wang is a travel card.
-Label: Choi's here. I just came in to ask you something.
-Text: That's right. Did you try the samples you brought the other day?
-Label: What's the matter? I've had one. I've been taking oral medication for the last two days. It's not so good.
-Text: German is good. You can also see how empty abdominal effects are, and blood sugar should be controlled fairly.
+text: Brother Wang is a travel card.
+label: Choi's here. I just came in to ask you something.
+text: That's right. Did you try the samples you brought the other day?
+label: What's the matter? I've had one. I've been taking oral medication for the last two days. It's not so good.
+text: German is good. You can also see how empty abdominal effects are, and blood sugar should be controlled fairly.
 I don't think so.
 By the way, Brother Wang's guide says that strict control of blood sugar by patients in the early stages can reduce the risk of microvascular disease.
-Label: It's up to the guidelines, but clinically it's a challenge to convince a drug-eating patient to give a shot, and I'll try to get some advice.
+label: It's up to the guidelines, but clinically it's a challenge to convince a drug-eating patient to give a shot, and I'll try to get some advice.
 I don't think so.
 By the way, I was here the other day, and I heard them say that Deok Yeong's effect was slower than they were coming. What's going on?
-Text: This is the case with Brother Wang. You must be interested in how many homes the patient uses, and it will work in a few days. This should be related to the time when the drug is stable.
+text: This is the case with Brother Wang. You must be interested in how many homes the patient uses, and it will work in a few days. This should be related to the time when the drug is stable.
 I don't think so.
 When all the drugs were first used, there was a steady state process in which the effective concentration in the blood was stabilized and the sugar was used, and there was a description of Degull and glycerin on the ais cell phone. You can see the same time frame for stabilization in the notes, which were 2 to 3 days for 2 to 4 days. You can also look more at the patient ' s empty abdominal glucose after trying to use the sample in Degu, and the doctor usually gives feedback that the drop is more pronounced in three days or so.
-Label: The instructions are exactly the same.
-Text: Insulin works about an hour or so after injection, insulin is about two to three hours, which is written in the part of the guide on drug characteristics. If you're interested, I'll show you this in the afternoon.
-Label: Well, you've really advanced your academic knowledge and become more and more professional.
-Text: Come on, thank Wang, I'm working on it. Don't forget to try a few more patients who are mildly ill. You'll get a better chance of reaching an empty stomach. I'll see you later. Come on, Brother Wang, you're busy.
+label: The instructions are exactly the same.
+text: Insulin works about an hour or so after injection, insulin is about two to three hours, which is written in the part of the guide on drug characteristics. If you're interested, I'll show you this in the afternoon.
+label: Well, you've really advanced your academic knowledge and become more and more professional.
+text: Come on, thank Wang, I'm working on it. Don't forget to try a few more patients who are mildly ill. You'll get a better chance of reaching an empty stomach. I'll see you later. Come on, Brother Wang, you're busy.
 I don't think so.
 Episode_done: True
-Text: Are you there? I heard you got a delta for the patient.
-Label: How's it going? You just got here, and I'm telling you, I'm a little smaller than a week old, and I don't think the blood sugar changes much.
-Text: Mr. Miao must have switched from glycerin to insulin, right?
-Label: It's a little twitchy with glycerine before, and it's been empty since 9 o'clock, so I thought I'd try to turn the valley, and it's still like that, and it doesn't come down.
-Text: What's the patient's drug program? Is it a base with a pill or a four?
-Label: The German State was formerly a concubine.
-Text: The patient's blood sugar should be bad. What do you think of the four frames?
-Label: There are almost 12 units in Degu, and it is now 6 p.m. and 8 p.m. in the winter.
-Text: Knowing that Dr. Hmong's treatment of glyph insulin-converted patients, especially those with poor glycerine control, we must be careful that, after three days or so, if the patient's empty abdominal glucose remains subdued, we still have to adjust the dose. Any insulin medication is actually in place, blood sugar is naturally improved, except for a general clinical fear of low blood sugar, which is far better safe than the liver. Insulin can reassure us that the tone is bold.
+text: Are you there? I heard you got a delta for the patient.
+label: How's it going? You just got here, and I'm telling you, I'm a little smaller than a week old, and I don't think the blood sugar changes much.
+text: Mr. Miao must have switched from glycerin to insulin, right?
+label: It's a little twitchy with glycerine before, and it's been empty since 9 o'clock, so I thought I'd try to turn the valley, and it's still like that, and it doesn't come down.
+text: What's the patient's drug program? Is it a base with a pill or a four?
+label: The German State was formerly a concubine.
+text: The patient's blood sugar should be bad. What do you think of the four frames?
+label: There are almost 12 units in Degu, and it is now 6 p.m. and 8 p.m. in the winter.
+text: Knowing that Dr. Hmong's treatment of glyph insulin-converted patients, especially those with poor glycerine control, we must be careful that, after three days or so, if the patient's empty abdominal glucose remains subdued, we still have to adjust the dose. Any insulin medication is actually in place, blood sugar is naturally improved, except for a general clinical fear of low blood sugar, which is far better safe than the liver. Insulin can reassure us that the tone is bold.
 I don't think so.
 Also, with regard to the four frames, we may wish to note the proportion of the base parameters that the patient is currently missing his or her abdominal glucose, and to recommend that you increase the base dose and, as the water drops down, reduce the post-dinner dose appropriately. Since the ratio of insulin to our normal basic human diets is 1:1 and the patient experts for the four consultations also recommend that the base insulin rate should not be less than 60% of the total measure, can you see if there has been an improvement in the blood sugar as a result of this adjustment?
-Label: It is true that the base dosage is not easy to adjust, and the patient ' s blood sugar fluctuates with fear of low blood sugar.
-Text: In fact, most patients in clinically four frames have common haemoglycemia fluctuations that are often caused by overdoses, in addition to the fact that insulin is much less mutated than glyph insulin, and that the curves are more smooth and the blood sugar control of windless patients is more stable, so you can rest assured.
+label: It is true that the base dosage is not easy to adjust, and the patient ' s blood sugar fluctuates with fear of low blood sugar.
+text: In fact, most patients in clinically four frames have common haemoglycemia fluctuations that are often caused by overdoses, in addition to the fact that insulin is much less mutated than glyph insulin, and that the curves are more smooth and the blood sugar control of windless patients is more stable, so you can rest assured.
 I don't think so.
 Well, the benefits of German choreography efficacy have been confirmed by sat and real world studies, and the same glucose panel values have been set in ST-adaptation experiments, and the airborne abdominal drops in desulin are better than in glyclopin. And the treatment meta-prophylaxis observations are based on the same objective, who is safer, who is less at risk of low insulin and has a high standard of safety and has proven its efficacy, which is more pronounced in real world studies. Eut’s experiments confirm that airborne blood sugar can be further reduced by 1.5 mm/litre from other insulin patients who convert to multi-track guides.
 I don't think so.
 Next time, you can try to use it among patients with poor oral control, who are not very long-term patients, because the guide recommends strict control of empty blood sugar for this group of patients, and it will be beneficial to stay away from complications, so if there is a greater use or answer for these patients, see if you can find a suitable candidate for the patient next time.
-Label: Okay, I'll keep an eye on it. Thank Dr. Miao.
-Text: I won't delay your time, bye.
+label: Okay, I'll keep an eye on it. Thank Dr. Miao.
+text: I won't delay your time, bye.
 I don't think so.
 Episode_done: True
-Text: Director Sun.
-Label: Hello. Yes.
-Text: I see you've been busy all morning.
-Label: That's a lot of change today, isn't it?
-Text: Then I'm not too busy on your side, and I just wanted to bother you for a few more minutes because of your last objection, the incidence of the Earth compared to Glycerin, and then I'll come over and talk to the director.
-Label: Okay.
-Text: Well, that's the case with the director, and the last time we talked about one of the patient's low blood sugars, so in this case, there might be a lot of problems because of our low blood sugar, so it's no different for you to say that it's a low blood sugar rate, so I've found some relevant information here, and then you can explain it to the director, and then you can see?
-Label: Yes, it is because a glycerin feels less present, yes.
-Text: First of all, it's because Noah said it was our Nob and Datta diabetic and it has a mutant, so mutagenicity is directly related to blood sugar, and it's very low in a day and daytime reaction to Nob and dab.
+text: Director Sun.
+label: Hello. Yes.
+text: I see you've been busy all morning.
+label: That's a lot of change today, isn't it?
+text: Then I'm not too busy on your side, and I just wanted to bother you for a few more minutes because of your last objection, the incidence of the Earth compared to Glycerin, and then I'll come over and talk to the director.
+label: Okay.
+text: Well, that's the case with the director, and the last time we talked about one of the patient's low blood sugars, so in this case, there might be a lot of problems because of our low blood sugar, so it's no different for you to say that it's a low blood sugar rate, so I've found some relevant information here, and then you can explain it to the director, and then you can see?
+label: Yes, it is because a glycerin feels less present, yes.
+text: First of all, it's because Noah said it was our Nob and Datta diabetic and it has a mutant, so mutagenicity is directly related to blood sugar, and it's very low in a day and daytime reaction to Nob and dab.
 I don't think so.
 And then we have a study, which is confirmed by a number of rct studies, that No and Da are less risky than glycerine, and that there is a different definition of low blood sugar, and that is the same.
 I don't think so.
 So, for example, like one of our studies, he's saying that a serious low blood sugar in Noor and D'Amino insulin can be reduced by 40% at night, and that it can be reduced by 53%, so that's all we're doing is a Djot study, and he's comparing it to a study that he's made. And then he doesn't know what else you have on your side?
-Label: It looks like this uh, Devereaux's low blood sugar still has a much lower effect than glycerin.
-Text: Yes.
+label: It looks like this uh, Devereaux's low blood sugar still has a much lower effect than glycerin.
+text: Yes.
 I don't think so.
 Because you know that serious low blood sugar events have serious consequences for patients, and that includes one of its variants, so that No and D he fills this part of the gap, one of its variants, which is more stable, one quarter of its glycerin, and one of its severe low blood sugar incidences, which is also more than 50 per cent lower than glycerin, which is one of the advantages of No and D.
-Label: Yeah, you mean that now we're talking about it mainly because it's poorly defined, and then in this experiment he's saying that his first incident is really low, and that's what it is.
-Text: Is there anything else you'd like to buy from the Director?
-Label: No.
-Text: That's what the director said, and now that we're in the hospital, you're probably more familiar with this product, and then you look at it as if it's on some of the same patients, and you can try to use it first, and then you look at it.
-Label: All right, I'll meet the right one.
-Text: Thank you. Thank you very much, Director. Thank you.
-Label: You're welcome, that's what I'm gonna do. On the 10th of Sunday, I'll try one or two of these first.
+label: Yeah, you mean that now we're talking about it mainly because it's poorly defined, and then in this experiment he's saying that his first incident is really low, and that's what it is.
+text: Is there anything else you'd like to buy from the Director?
+label: No.
+text: That's what the director said, and now that we're in the hospital, you're probably more familiar with this product, and then you look at it as if it's on some of the same patients, and you can try to use it first, and then you look at it.
+label: All right, I'll meet the right one.
+text: Thank you. Thank you very much, Director. Thank you.
+label: You're welcome, that's what I'm gonna do. On the 10th of Sunday, I'll try one or two of these first.
 I don't think so.
 Yes.
-Text: The director will be fine, and then you will try with you. If you feel good, you will share the case with us, so we can invite the other teachers in our section to learn from the promotion of a product in our Germany, including its clinical use, and to provide an advantage to a large group of patients.
-Label: Rows can do it.
-Text: Thank you, Director. Thank you.
-Label: You're welcome.
-Text: Thank you. I'll be back next week.
-Label: Okay.
-Text: Good-bye.
+text: The director will be fine, and then you will try with you. If you feel good, you will share the case with us, so we can invite the other teachers in our section to learn from the promotion of a product in our Germany, including its clinical use, and to provide an advantage to a large group of patients.
+label: Rows can do it.
+text: Thank you, Director. Thank you.
+label: You're welcome.
+text: Thank you. I'll be back next week.
+label: Okay.
+text: Good-bye.
 I don't think so.
 Episode_done: True
