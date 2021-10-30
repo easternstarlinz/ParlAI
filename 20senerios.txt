@@ -110,6 +110,6 @@ text:Yeah.Because you know that serious low blood sugar events have serious cons
 text:It's to see what other concerns you have on your side?	labels:Nothing.
 text:That's what the chief said, and now that we're in the hospital, you probably know more about the product, and then you can try to use it, and then you can look at it.	labels:Okay, I'll just meet the right one.
 text:Thank you. Thank you very much, Director. Thank you.	labels:You're welcome. That's what I'm gonna do. On our 10th, I'm gonna try one or two of those first.
-Yes.text:The director will be fine, then you will try with you, and if you feel good, you will share the case with us, so we can invite the other teachers in our section to learn from the promotion of one of our German products, as well as its clinical use, which will also provide an advantage to a wider group of patients.	labels:All right, all right, all right.
+text:Yes.The director will be fine, then you will try with you, and if you feel good, you will share the case with us, so we can invite the other teachers in our section to learn from the promotion of one of our German products, as well as its clinical use, which will also provide an advantage to a wider group of patients.	labels:All right, all right, all right.
 text:Thank you, Director. Thank you.	labels:You're welcome.
 text:Thank you. I'll come back next week.	labels:Okay.	episode_done:True
